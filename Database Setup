@@ -1,0 +1,5 @@
+Create MongoDB Atlas Cluster
+
+Add connection string to backend .env
+
+Backend auto-creates database & collection
